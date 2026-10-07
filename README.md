@@ -18,3 +18,17 @@ I am going to cover the following topics soon
 10. Mathematical Physics / Mechanics
 11. Mathematical Biology
 12. Computational Mathematics / Scientific Computing
+
+
+## Below is the workflow on how i am gonna implement the stuff and learn it.
+
+
+
+1. Infinite Series and Power Series
+
+
+
+
+
+Keep following and stay updated
+
